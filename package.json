@@ -1,7 +1,7 @@
 {
-  "name": "pinst",
-  "version": "3.0.0",
-  "description": "Enable or disable npm postinstall hook",
+  "name": "@phiberber/pinst",
+  "version": "3.0.1",
+  "description": "Enable or disable npm preinstall and postinstall hook",
   "main": "index.js",
   "bin": {
     "pinst": "bin.js"
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typicode/pinst.git"
+    "url": "git+https://github.com/phiberber/pinst.git"
   },
   "keywords": [
     "npm",
@@ -34,9 +34,9 @@
   "author": "typicode <typicode@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typicode/pinst/issues"
+    "url": "https://github.com/phiberber/pinst/issues"
   },
-  "homepage": "https://github.com/typicode/pinst#readme",
+  "homepage": "https://github.com/phiberber/pinst#readme",
   "devDependencies": {
     "eslint": "^7.18.0",
     "eslint-config-prettier": "^8.0.0",
